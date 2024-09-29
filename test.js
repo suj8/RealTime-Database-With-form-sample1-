@@ -1,14 +1,14 @@
-// Initialize Firebase (ADD YOUR OWN DATA)
-const firebaseConfig = {
-    apiKey: "AIzaSyBl19Z36Y8avljhZxAWPqbPMD8qLtUU9xs",
-    authDomain: "test1-a4374.firebaseapp.com",
-    databaseURL: "https://test1-a4374-default-rtdb.firebaseio.com",
-    projectId: "test1-a4374",
-    storageBucket: "test1-a4374.appspot.com",
-    messagingSenderId: "683114572138",
-    appId: "1:683114572138:web:e030939598e9e7a7e2dd13",
-    measurementId: "G-829VY4NM58"
-  };
+
+// const firebaseConfig = {
+//     apiKey: "AIzaSyBl19Z36Y8avljhZxAWPqbPMD8qLtUU9xs",
+//     authDomain: "test1-a4374.firebaseapp.com",
+//     databaseURL: "https://test1-a4374-default-rtdb.firebaseio.com",
+//     projectId: "test1-a4374",
+//     storageBucket: "test1-a4374.appspot.com",
+//     messagingSenderId: "683114572138",
+//     appId: "1:683114572138:web:e030939598e9e7a7e2dd13",
+//     measurementId: "G-829VY4NM58"
+//   };
  
 // const firebaseConfig = {
 //     apiKey: "AIzaSyDIU4otdbs35G88kNpdJKZIttWTNMd-qGs",
